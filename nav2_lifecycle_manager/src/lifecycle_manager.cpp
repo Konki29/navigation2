@@ -14,6 +14,7 @@
 // limitations under the License.
 
 #include "nav2_lifecycle_manager/lifecycle_manager.hpp"
+#include "nav2_util/node_utils.hpp"
 
 #include <chrono>
 #include <memory>
